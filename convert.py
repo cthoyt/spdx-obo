@@ -66,10 +66,10 @@ def entry_to_term(entry: Mapping[str, Any]) -> Term:
         ),
         is_obsolete=entry['isDeprecatedLicenseId'],
     )
-    for key in ['isOsiApproved', 'isFsfLibre']:
+    for key, xsd in [('isOsiApproved', bool), ('isFsfLibre', bool)]:
         value = entry.get(key)
         if value is not None:
-            term.append_property(key,value)
+            term.append_property(key, value, xsd)
     return term
 
 

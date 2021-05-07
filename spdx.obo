@@ -1,2410 +1,2410 @@
 format-version: 1.2
-date: 07:05:2021 09:13
+date: 07:05:2021 09:35
 data-version: 2082469
 ontology: spdx
 
 [Term]
 id: spdx:DOC
 name: DOC License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NTP-0
 name: NTP No Attribution
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CDLA-Permissive-1.0
 name: Community Data License Agreement Permissive 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-SA-3.0
 name: Creative Commons Attribution Non Commercial Share Alike 3.0 Unported
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SimPL-2.0
 name: Simple Public License 2.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:EFL-2.0
 name: Eiffel Forum License v2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:copyleft-next-0.3.1
 name: copyleft-next 0.3.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Xnet
 name: X.Net License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause
 name: BSD 3-Clause "New" or "Revised" License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Naumen
 name: Naumen Public License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:Beerware
 name: Beerware License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:IPL-1.0
 name: IBM Public License v1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:AMDPLPA
 name: AMD's plpa_map.c License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MTLL
 name: Matrix Template Library License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Vim
 name: Vim License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:O-UDA-1.0
 name: Open Use of Data Agreement v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:AFL-3.0
 name: Academic Free License v3.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.2-or-later
 name: GNU Free Documentation License v1.2 or later
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:SCEA
 name: SCEA Shared Source License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:HaskellReport
 name: Haskell Language Report License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:AGPL-3.0-or-later
 name: GNU Affero General Public License v3.0 or later
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:MIT-Modern-Variant
 name: MIT License Modern Variant
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:ANTLR-PD-fallback
 name: ANTLR Software Rights Notice with license fallback
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Borceux
 name: Borceux license
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Unicode-TOU
 name: Unicode Terms of Use
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Glulxe
 name: Glulxe License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:EUPL-1.0
 name: European Union Public License 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:TCP-wrappers
 name: TCP Wrappers License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NetCDF
 name: NetCDF license
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-1-Clause
 name: BSD 1-Clause License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-ND-2.0
 name: Creative Commons Attribution No Derivatives 2.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-2.5
 name: Creative Commons Attribution 2.5 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Apache-1.1
 name: Apache License 1.1
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Libpng
 name: libpng License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-1.1
 name: Open LDAP Public License v1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.6
 name: Open LDAP Public License v2.6
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OGL-UK-2.0
 name: Open Government Licence v2.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OFL-1.0
 name: SIL Open Font License 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:eCos-2.0
 name: eCos license version 2.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Unicode-DFS-2015
 name: Unicode License Agreement - Data Files and Software (2015)
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-2-Clause
 name: BSD 2-Clause "Simplified" License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:FSFAP
 name: FSF All Permissive License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CPL-1.0
 name: Common Public License 1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Wsuipa
 name: Wsuipa License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:dvipdfm
 name: dvipdfm License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Artistic-2.0
 name: Artistic License 2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Sendmail
 name: Sendmail License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-3.0
 name: Creative Commons Attribution Non Commercial 3.0 Unported
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Imlib2
 name: Imlib2 License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:SNIA
 name: SNIA Public License 1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:EUDatagrid
 name: EU DataGrid Software License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Apache-2.0
 name: Apache License 2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Aladdin
 name: Aladdin Free Public License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OSL-2.0
 name: Open Software License 2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:MS-RL
 name: Microsoft Reciprocal License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-3.0-US
 name: Creative Commons Attribution 3.0 United States
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SGI-B-1.1
 name: SGI Free Software License B v1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BlueOak-1.0.0
 name: Blue Oak Model License 1.0.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-2.0
 name: Creative Commons Attribution 2.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LPPL-1.3c
 name: LaTeX Project Public License v1.3c
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:AGPL-1.0-or-later
 name: Affero General Public License v1.0 or later
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:FSFULLR
 name: FSF Unlimited License (with License Retention)
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NTP
 name: NTP License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-SA-3.0
 name: Creative Commons Attribution Share Alike 3.0 Unported
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CATOSL-1.1
 name: Computer Associates Trusted Open Source License 1.1
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-ND-2.5
 name: Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Fair
 name: Fair License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0-with-classpath-exception
 name: GNU General Public License v2.0 w/Classpath exception
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CECILL-2.1
 name: CeCILL Free Software License Agreement v2.1
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:HPND
 name: Historical Permission Notice and Disclaimer
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:etalab-2.0
 name: Etalab Open License 2.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-1.4
 name: Open LDAP Public License v1.4
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NBPL-1.0
 name: Net Boolean Public License v1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Unicode-DFS-2016
 name: Unicode License Agreement - Data Files and Software (2016)
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:BSD-Protection
 name: BSD Protection License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MITNFA
 name: MIT +no-false-attribs license
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause-Modification
 name: BSD 3-Clause Modification
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OSL-1.0
 name: Open Software License 1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:HTMLTIDY
 name: HTML Tidy License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:AFL-1.2
 name: Academic Free License v1.2
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.1
 name: Open LDAP Public License v2.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Plexus
 name: Plexus Classworlds License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:AFL-1.1
 name: Academic Free License v1.1
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:XFree86-1.1
 name: XFree86 License 1.1
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0-with-autoconf-exception
 name: GNU General Public License v2.0 w/Autoconf exception
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:ODbL-1.0
 name: Open Data Commons Open Database License v1.0
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-1.0-only
 name: GNU General Public License v1.0 only
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-ND-3.0
 name: Creative Commons Attribution No Derivatives 3.0 Unported
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:W3C
 name: W3C Software Notice and License (2002-12-31)
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:W3C-20150513
 name: W3C Software Notice and Document License (2015-05-13)
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CERN-OHL-W-2.0
 name: CERN Open Hardware Licence Version 2 - Weakly Reciprocal
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CERN-OHL-1.1
 name: CERN Open Hardware Licence v1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Eurosym
 name: Eurosym License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Hippocratic-2.1
 name: Hippocratic License 2.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CPAL-1.0
 name: Common Public Attribution License 1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:LGPL-2.0-only
 name: GNU Library General Public License v2 only
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:BSL-1.0
 name: Boost Software License 1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:LGPL-2.0
 name: GNU Library General Public License v2 only
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:LGPL-2.0+
 name: GNU Library General Public License v2 or later
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:RSCPL
 name: Ricoh Source Code Public License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:IPA
 name: IPA Font License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:OSET-PL-2.1
 name: OSET Public License version 2.1
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:NIST-PD-fallback
 name: NIST Public Domain Notice with license fallback
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.2
 name: GNU Free Documentation License v1.2
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause-No-Nuclear-License
 name: BSD 3-Clause No Nuclear License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Linux-OpenIB
 name: Linux Kernel Variant of OpenIB.org license
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-ND-1.0
 name: Creative Commons Attribution No Derivatives 1.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OGL-UK-1.0
 name: Open Government Licence v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.2-invariants-only
 name: GNU Free Documentation License v1.2 only - invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:ODC-By-1.0
 name: Open Data Commons Attribution License v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-4.0
 name: Creative Commons Attribution Non Commercial 4.0 International
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-2-Clause-FreeBSD
 name: BSD 2-Clause FreeBSD License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:MakeIndex
 name: MakeIndex License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:IBM-pibs
 name: IBM PowerPC Initialization and Boot Software
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Latex2e
 name: Latex2e License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GLWTPL
 name: Good Luck With That Public License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SGI-B-2.0
 name: SGI Free Software License B v2.0
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-3.0
 name: GNU General Public License v3.0 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:DRL-1.0
 name: Detection Rule License 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-Source-Code
 name: BSD Source Code Attribution
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NLPL
 name: No Limit Public License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BUSL-1.1
 name: Business Source License 1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LGPLLR
 name: Lesser General Public License For Linguistic Resources
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0-with-GCC-exception
 name: GNU General Public License v2.0 w/GCC Runtime Library exception
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NLOD-1.0
 name: Norwegian Licence for Open Government Data
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Artistic-1.0
 name: Artistic License 1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.2
 name: Open LDAP Public License v2.2
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:ErlPL-1.1
 name: Erlang Public License v1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.3-invariants-only
 name: GNU Free Documentation License v1.3 only - invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:bzip2-1.0.6
 name: bzip2 and libbzip2 License v1.0.6
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:ImageMagick
 name: ImageMagick License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LPL-1.02
 name: Lucent Public License v1.02
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:RPL-1.1
 name: Reciprocal Public License 1.1
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0-only
 name: GNU General Public License v2.0 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Apache-1.0
 name: Apache License 1.0
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Sendmail-8.23
 name: Sendmail License 8.23
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Barr
 name: Barr License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NGPL
 name: Nethack General Public License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:OpenSSL
 name: OpenSSL License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Nunit
 name: Nunit License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SMPPL
 name: Secure Messaging Protocol Public License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Adobe-Glyph
 name: Adobe Glyph List License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-ND-4.0
 name: Creative Commons Attribution No Derivatives 4.0 International
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BitTorrent-1.0
 name: BitTorrent Open Source License v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:AGPL-3.0-only
 name: GNU Affero General Public License v3.0 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:AML
 name: Apple MIT License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause-Attribution
 name: BSD with attribution
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:VSL-1.0
 name: Vovida Software License v1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:ZPL-2.0
 name: Zope Public License 2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Zimbra-1.3
 name: Zimbra Public License v1.3
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:JasPer-2.0
 name: JasPer License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:PHP-3.01
 name: PHP License v3.01
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:IJG
 name: Independent JPEG Group License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause-LBNL
 name: Lawrence Berkeley National Labs BSD variant license
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:Zimbra-1.4
 name: Zimbra Public License v1.4
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GPL-1.0+
 name: GNU General Public License v1.0 or later
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.3-only
 name: GNU Free Documentation License v1.3 only
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:RHeCos-1.1
 name: Red Hat eCos Public License v1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MIT
 name: MIT License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Motosoto
 name: Motosoto License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:Saxpath
 name: Saxpath License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-SA-1.0
 name: Creative Commons Attribution Non Commercial Share Alike 1.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-ND-2.5
 name: Creative Commons Attribution No Derivatives 2.5 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Parity-6.0.0
 name: The Parity Public License 6.0.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:0BSD
 name: BSD Zero Clause License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:eGenix
 name: eGenix.com Public License 1.1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:VOSTROM
 name: VOSTROM Public License for Open Source
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:ZPL-1.1
 name: Zope Public License 1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CECILL-1.1
 name: CeCILL Free Software License Agreement v1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:APSL-1.0
 name: Apple Public Source License 1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.2-invariants-or-later
 name: GNU Free Documentation License v1.2 or later - invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:APL-1.0
 name: Adaptive Public License 1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CERN-OHL-P-2.0
 name: CERN Open Hardware Licence Version 2 - Permissive
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:Artistic-1.0-cl8
 name: Artistic License 1.0 w/clause 8
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:AGPL-1.0
 name: Affero General Public License v1.0
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:LPPL-1.0
 name: LaTeX Project Public License v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Crossword
 name: Crossword License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MIT-open-group
 name: MIT Open Group variant
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.2.2
 name: Open LDAP Public License 2.2.2
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.1-no-invariants-or-later
 name: GNU Free Documentation License v1.1 or later - no invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GD
 name: GD License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Python-2.0
 name: Python License 2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CAL-1.0-Combined-Work-Exception
 name: Cryptographic Autonomy License 1.0 (Combined Work Exception)
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:ISC
 name: ISC License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-ND-2.0
 name: Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Condor-1.1
 name: Condor Public License v1.1
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CECILL-C
 name: CeCILL-C Free Software License Agreement
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-3.0-with-GCC-exception
 name: GNU General Public License v3.0 w/GCC Runtime Library exception
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:libselinux-1.0
 name: libselinux public domain notice
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-SA-2.0-UK
 name: Creative Commons Attribution Share Alike 2.0 England and Wales
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-SA-4.0
 name: Creative Commons Attribution Share Alike 4.0 International
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:AFL-2.0
 name: Academic Free License v2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Nokia
 name: Nokia Open Source License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:MulanPSL-1.0
 name: Mulan Permissive Software License, Version 1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:EPL-1.0
 name: Eclipse Public License 1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Newsletr
 name: Newsletr License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Multics
 name: Multics License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CNRI-Jython
 name: CNRI Jython License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SSH-OpenSSH
 name: SSH OpenSSH license
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LGPL-3.0-only
 name: GNU Lesser General Public License v3.0 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:NIST-PD
 name: NIST Public Domain Notice
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LGPL-2.1-or-later
 name: GNU Lesser General Public License v2.1 or later
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-SA-3.0-AT
 name: Creative Commons Attribution-Share Alike 3.0 Austria
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.1-invariants-only
 name: GNU Free Documentation License v1.1 only - invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:xinetd
 name: xinetd License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:TOSL
 name: Trusster Open Source License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GPL-3.0-or-later
 name: GNU General Public License v3.0 or later
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:LGPL-3.0+
 name: GNU Lesser General Public License v3.0 or later
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CDLA-Sharing-1.0
 name: Community Data License Agreement Sharing 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OGTSL
 name: Open Group Test Suite License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-SA-2.0
 name: Creative Commons Attribution Share Alike 2.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CECILL-2.0
 name: CeCILL Free Software License Agreement v2.0
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0-with-bison-exception
 name: GNU General Public License v2.0 w/Bison exception
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:blessing
 name: SQLite Blessing
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:UPL-1.0
 name: Universal Permissive License v1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Parity-7.0.0
 name: The Parity Public License 7.0.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:UCL-1.0
 name: Upstream Compatibility License v1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:TORQUE-1.1
 name: TORQUE v2.5+ Software License v1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.2-no-invariants-or-later
 name: GNU Free Documentation License v1.2 or later - no invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OCCT-PL
 name: Open CASCADE Technology Public License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NOSL
 name: Netizen Open Source License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:WTFPL
 name: Do What The F*ck You Want To Public License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CDDL-1.1
 name: Common Development and Distribution License 1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NPL-1.0
 name: Netscape Public License v1.0
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CUA-OPL-1.0
 name: CUA Office Public License v1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:Spencer-99
 name: Spencer License 99
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CECILL-1.0
 name: CeCILL Free Software License Agreement v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Leptonica
 name: Leptonica License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:FreeImage
 name: FreeImage Public License v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-4-Clause-Shortened
 name: BSD 4 Clause Shortened
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LPL-1.0
 name: Lucent Public License Version 1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:LAL-1.2
 name: Licence Art Libre 1.2
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:AGPL-1.0-only
 name: Affero General Public License v1.0 only
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Qhull
 name: Qhull License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-ND-1.0
 name: Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LGPL-3.0-or-later
 name: GNU Lesser General Public License v3.0 or later
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-1.0-or-later
 name: GNU General Public License v1.0 or later
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Afmparse
 name: Afmparse License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.1-no-invariants-only
 name: GNU Free Documentation License v1.1 only - no invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:APSL-2.0
 name: Apple Public Source License 2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0-or-later
 name: GNU General Public License v2.0 or later
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:NAIST-2003
 name: Nara Institute of Science and Technology License (2003)
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.0.1
 name: Open LDAP Public License v2.0.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Zend-2.0
 name: Zend License v2.0
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Spencer-86
 name: Spencer License 86
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.2.1
 name: Open LDAP Public License v2.2.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-SA-4.0
 name: Creative Commons Attribution Non Commercial Share Alike 4.0 International
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MIT-enna
 name: enna License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CPOL-1.02
 name: Code Project Open License 1.02
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause-No-Nuclear-Warranty
 name: BSD 3-Clause No Nuclear Warranty
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Mup
 name: Mup License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:copyleft-next-0.3.0
 name: copyleft-next 0.3.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-SA-2.0
 name: Creative Commons Attribution Non Commercial Share Alike 2.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OML
 name: Open Market License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Cube
 name: Cube License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:PolyForm-Small-Business-1.0.0
 name: PolyForm Small Business License 1.0.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LiLiQ-P-1.1
 name: Licence Libre du Québec – Permissive version 1.1
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.4
 name: Open LDAP Public License v2.4
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:TU-Berlin-2.0
 name: Technische Universitaet Berlin License 2.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:APSL-1.2
 name: Apple Public Source License 1.2
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:wxWindows
 name: wxWindows Library License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Abstyles
 name: Abstyles License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-1.0
 name: Creative Commons Attribution 1.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SPL-1.0
 name: Sun Public License v1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:MulanPSL-2.0
 name: Mulan Permissive Software License, Version 2
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:LGPL-2.0-or-later
 name: GNU Library General Public License v2 or later
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.2-only
 name: GNU Free Documentation License v1.2 only
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:SHL-0.5
 name: Solderpad Hardware License v0.5
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LGPL-2.1-only
 name: GNU Lesser General Public License v2.1 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:EUPL-1.2
 name: European Union Public License 1.2
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:mpich2
 name: mpich2 License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CERN-OHL-1.2
 name: CERN Open Hardware Licence v1.2
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-1.0
 name: Creative Commons Attribution Non Commercial 1.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SISSL
 name: Sun Industry Standards Source License v1.1
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:ECL-1.0
 name: Educational Community License v1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC0-1.0
 name: Creative Commons Zero v1.0 Universal
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:D-FSL-1.0
 name: Deutsche Freie Software Lizenz
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MIT-advertising
 name: Enlightenment License (e16)
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:ZPL-2.1
 name: Zope Public License 2.1
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:OGDL-Taiwan-1.0
 name: Taiwan Open Government Data License, version 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:RPL-1.5
 name: Reciprocal Public License 1.5
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:Caldera
 name: Caldera License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LPPL-1.1
 name: LaTeX Project Public License v1.1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-ND-3.0-IGO
 name: Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Adobe-2006
 name: Adobe Systems Incorporated Source Code License Agreement
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:gnuplot
 name: gnuplot License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:MS-PL
 name: Microsoft Public License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Glide
 name: 3dfx Glide License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OFL-1.1-RFN
 name: SIL Open Font License 1.1 with Reserved Font Name
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:GL2PS
 name: GL2PS License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:xpp
 name: XPP License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause-Open-MPI
 name: BSD 3-Clause Open MPI variant
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GPL-3.0-with-autoconf-exception
 name: GNU General Public License v3.0 w/Autoconf exception
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0+
 name: GNU General Public License v2.0 or later
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:LGPL-3.0
 name: GNU Lesser General Public License v3.0 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:BSD-2-Clause-Views
 name: BSD 2-Clause with views sentence
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.3-no-invariants-only
 name: GNU Free Documentation License v1.3 only - no invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-4-Clause-UC
 name: BSD-4-Clause (University of California-Specific)
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:AAL
 name: Attribution Assurance License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:OSL-3.0
 name: Open Software License 3.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:LiLiQ-R-1.1
 name: Licence Libre du Québec – Réciprocité version 1.1
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:PSF-2.0
 name: Python Software Foundation License 2.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OSL-2.1
 name: Open Software License 2.1
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Sleepycat
 name: Sleepycat License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:TCL
 name: TCL/TK License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MPL-2.0
 name: Mozilla Public License 2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:SMLNJ
 name: Standard ML of New Jersey License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:YPL-1.1
 name: Yahoo! Public License v1.1
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CERN-OHL-S-2.0
 name: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-1.3
 name: Open LDAP Public License v1.3
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.2-no-invariants-only
 name: GNU Free Documentation License v1.2 only - no invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Info-ZIP
 name: Info-ZIP License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Intel-ACPI
 name: Intel ACPI Software License Agreement
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:ANTLR-PD
 name: ANTLR Software Rights Notice
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:TAPR-OHL-1.0
 name: TAPR Open Hardware License v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SHL-0.51
 name: Solderpad Hardware License, Version 0.51
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.3-invariants-or-later
 name: GNU Free Documentation License v1.3 or later - invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-SA-1.0
 name: Creative Commons Attribution Share Alike 1.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:X11
 name: X11 License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:OSL-1.1
 name: Open Software License 1.1
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CNRI-Python-GPL-Compatible
 name: CNRI Python Open Source GPL Compatible License Agreement
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OCLC-2.0
 name: OCLC Research Public License 2.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.1-or-later
 name: GNU Free Documentation License v1.1 or later
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:APSL-1.1
 name: Apple Public Source License 1.1
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:EPICS
 name: EPICS Open License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:PostgreSQL
 name: PostgreSQL License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:BSD-2-Clause-NetBSD
 name: BSD 2-Clause NetBSD License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-4.0
 name: Creative Commons Attribution 4.0 International
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:QPL-1.0
 name: Q Public License 1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:EPL-2.0
 name: Eclipse Public License 2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Entessa
 name: Entessa Public License v1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:HPND-sell-variant
 name: Historical Permission Notice and Disclaimer - sell variant
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BitTorrent-1.1
 name: BitTorrent Open Source License v1.1
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:RSA-MD
 name: RSA Message-Digest License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.0
 name: Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B)
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.1-only
 name: GNU Free Documentation License v1.1 only
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:SWL
 name: Scheme Widget Library (SWL) Software License Agreement
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NRL
 name: NRL License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:APAFML
 name: Adobe Postscript AFM License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MPL-2.0-no-copyleft-exception
 name: Mozilla Public License 2.0 (no copyleft exception)
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:NCSA
 name: University of Illinois/NCSA Open Source License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Rdisc
 name: Rdisc License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OGC-1.0
 name: OGC Software License, Version 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LiLiQ-Rplus-1.1
 name: Licence Libre du Québec – Réciprocité forte version 1.1
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:Watcom-1.0
 name: Sybase Open Watcom Public License 1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:MIT-0
 name: MIT No Attribution
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:RPSL-1.0
 name: RealNetworks Public Source License v1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Xerox
 name: Xerox License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.3
 name: GNU Free Documentation License v1.3
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.5
 name: Open LDAP Public License v2.5
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:diffmark
 name: diffmark license
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MIT-CMU
 name: CMU License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Bahyph
 name: Bahyph License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LGPL-2.1+
 name: GNU Library General Public License v2.1 or later
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-ND-3.0
 name: Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NPL-1.1
 name: Netscape Public License v1.1
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:psfrag
 name: psfrag License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CNRI-Python
 name: CNRI Python License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:ECL-2.0
 name: Educational Community License v2.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0
 name: GNU General Public License v2.0 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:NASA-1.3
 name: NASA Open Source Agreement 1.3
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC-PDDC
 name: Creative Commons Public Domain Dedication and Certification
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:EFL-1.0
 name: Eiffel Forum License v1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:YPL-1.0
 name: Yahoo! Public License v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SAX-PD
 name: Sax Public Domain Notice
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.3-no-invariants-or-later
 name: GNU Free Documentation License v1.3 or later - no invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:TMate
 name: TMate Open Source License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SISSL-1.2
 name: Sun Industry Standards Source License v1.2
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GPL-3.0-only
 name: GNU General Public License v3.0 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Frameworx-1.0
 name: Frameworx Open License 1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-2.5
 name: Creative Commons Attribution Non Commercial 2.5 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OFL-1.0-RFN
 name: SIL Open Font License 1.0 with Reserved Font Name
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:curl
 name: curl License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Zlib
 name: zlib License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:LPPL-1.3a
 name: LaTeX Project Public License v1.3a
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:AMPAS
 name: Academy of Motion Picture Arts and Sciences BSD
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:zlib-acknowledgement
 name: zlib/libpng License with Acknowledgement
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.7
 name: Open LDAP Public License v2.7
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:W3C-19980720
 name: W3C Software Notice and License (1998-07-20)
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SugarCRM-1.1.3
 name: SugarCRM Public License v1.1.3
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:TU-Berlin-1.0
 name: Technische Universitaet Berlin License 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-SA-2.5
 name: Creative Commons Attribution Non Commercial Share Alike 2.5 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:PHP-3.0
 name: PHP License v3.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-3.0
 name: Creative Commons Attribution 3.0 Unported
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Artistic-1.0-Perl
 name: Artistic License 1.0 (Perl)
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:OFL-1.1
 name: SIL Open Font License 1.1
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CECILL-B
 name: CeCILL-B Free Software License Agreement
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-3.0+
 name: GNU General Public License v3.0 or later
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:DSDP
 name: DSDP License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-1.2
 name: Open LDAP Public License v1.2
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Intel
 name: Intel Open Source License
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-1.0
 name: GNU General Public License v1.0 only
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:FTL
 name: Freetype Project License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:AFL-2.1
 name: Academic Free License v2.1
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Unlicense
 name: The Unlicense
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:MPL-1.0
 name: Mozilla Public License 1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.8
 name: Open LDAP Public License v2.8
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:EUPL-1.1
 name: European Union Public License 1.1
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Zed
 name: Zed License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Ruby
 name: Ruby License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:ICU
 name: ICU License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:libpng-2.0
 name: PNG Reference Library version 2
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:C-UDA-1.0
 name: Computational Use of Data Agreement v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MPL-1.1
 name: Mozilla Public License 1.1
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:PolyForm-Noncommercial-1.0.0
 name: PolyForm Noncommercial License 1.0.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause-No-Nuclear-License-2014
 name: BSD 3-Clause No Nuclear License 2014
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-2.0
 name: Creative Commons Attribution Non Commercial 2.0 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:XSkat
 name: XSkat License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SGI-B-1.0
 name: SGI Free Software License B v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:FreeBSD-DOC
 name: FreeBSD Documentation License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OFL-1.1-no-RFN
 name: SIL Open Font License 1.1 with no Reserved Font Name
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.1-invariants-or-later
 name: GNU Free Documentation License v1.1 or later - invariants
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.1
 name: GNU Free Documentation License v1.1
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:NCGL-UK-2.0
 name: Non-Commercial Government Licence
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LPPL-1.2
 name: LaTeX Project Public License v1.2
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:OLDAP-2.3
 name: Open LDAP Public License v2.3
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:GPL-2.0-with-font-exception
 name: GNU General Public License v2.0 w/Font exception
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OPL-1.0
 name: Open Public License v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-SA-2.5
 name: Creative Commons Attribution Share Alike 2.5 Generic
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:BSD-3-Clause-Clear
 name: BSD 3-Clause Clear License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:ClArtistic
 name: Clarified Artistic License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:iMatix
 name: iMatix Standard Function Library Agreement
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:bzip2-1.0.5
 name: bzip2 and libbzip2 License v1.0.5
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:GFDL-1.3-or-later
 name: GNU Free Documentation License v1.3 or later
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-SA-2.1-JP
 name: Creative Commons Attribution Share Alike 2.1 Japan
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SSPL-1.0
 name: Server Side Public License, v 1
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:psutils
 name: psutils License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Noweb
 name: Noweb License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:MirOS
 name: The MirOS Licence
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:BSD-2-Clause-Patent
 name: BSD-2-Clause Plus Patent License
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:MIT-feh
 name: feh License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:FSFUL
 name: FSF Unlimited License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CrystalStacker
 name: CrystalStacker License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CDDL-1.0
 name: Common Development and Distribution License 1.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:PDDL-1.0
 name: Open Data Commons Public Domain Dedication & License 1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:SSH-short
 name: SSH short notice
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-NC-ND-4.0
 name: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:libtiff
 name: libtiff License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:JPNIC
 name: Japan Network Information Center License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Dotseqn
 name: Dotseqn License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CC-BY-3.0-AT
 name: Creative Commons Attribution 3.0 Austria
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OFL-1.0-no-RFN
 name: SIL Open Font License 1.0 with no Reserved Font Name
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Giftware
 name: Giftware License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Spencer-94
 name: Spencer License 94
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:Net-SNMP
 name: Net-SNMP License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:AGPL-3.0
 name: GNU Affero General Public License v3.0
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:OGL-Canada-2.0
 name: Open Government Licence - Canada
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:JSON
 name: JSON License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:OGL-UK-3.0
 name: Open Government Licence v3.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LAL-1.3
 name: Licence Art Libre 1.3
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:ADSL
 name: Amazon Digital Services License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:LGPL-2.1
 name: GNU Lesser General Public License v2.1 only
-property_value: isOsiApproved "True" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:Interbase-1.0
 name: Interbase Public License v1.0
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:CAL-1.0
 name: Cryptographic Autonomy License 1.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:gSOAP-1.3b
 name: gSOAP Public License v1.3b
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
 
 [Term]
 id: spdx:NPOSL-3.0
 name: Non-Profit Open Software License 3.0
-property_value: isOsiApproved "True" xsd:string
+property_value: isOsiApproved "True" xsd:boolean
 
 [Term]
 id: spdx:BSD-4-Clause
 name: BSD 4-Clause "Original" or "Old" License
-property_value: isOsiApproved "False" xsd:string
-property_value: isFsfLibre "True" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
+property_value: isFsfLibre "True" xsd:boolean
 
 [Term]
 id: spdx:StandardML-NJ
 name: Standard ML of New Jersey License
-property_value: isOsiApproved "False" xsd:string
+property_value: isOsiApproved "False" xsd:boolean
